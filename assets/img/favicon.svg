@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+    <style>
+        .leaf { fill: #4CAF50; }
+    </style>
+    <path class="leaf" d="M16 4 C8 4 4 12 4 20 C4 24 8 28 12 28 C20 28 24 20 24 12 C24 8 20 4 16 4 Z"/>
+</svg> 
